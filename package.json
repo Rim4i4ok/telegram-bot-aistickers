@@ -1,0 +1,27 @@
+{
+  "name": "telegram-bot-aistickers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "server": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rim4i4ok/telegram-bot-aistickers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rim4i4ok/telegram-bot-aistickers/issues"
+  },
+  "homepage": "https://github.com/Rim4i4ok/telegram-bot-aistickers#readme",
+  "dependencies": {
+    "config": "^3.2.4",
+    "node-telegram-bot-api": "^0.40.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
